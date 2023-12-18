@@ -1,6 +1,8 @@
 # Laravel-React-ToDo-app
 Laravel-React ToDo Tasks Web App
 
+![Example Screenshot](todo-app-screenshot.jpg)
+
 **Description:**
 
 Welcome to the "Laravel-React ToDo Tasks Web App" repository! This project is a demonstration of a full-stack web application developed using the Laravel PHP framework for the backend and React for the frontend. It's designed to provide users with a secure and private platform for managing their to-do lists, allowing them to create, read, update, and delete tasks with ease.
