@@ -3,11 +3,11 @@ Laravel-React ToDo Tasks Web App
 
 ![Example Screenshot](todo-app-screenshot.jpg)
 
-**Description:**
+## Description:
 
 Welcome to the "Laravel-React ToDo Tasks Web App" repository! This project is a demonstration of a full-stack web application developed using the Laravel PHP framework for the backend and React for the frontend. It's designed to provide users with a secure and private platform for managing their to-do lists, allowing them to create, read, update, and delete tasks with ease.
 
-**Key Features:**
+## Key Features:
 
 Authentication: The application features robust user authentication powered by Laravel Sanctum, ensuring the security of user data and actions.
 
@@ -19,13 +19,20 @@ Frontend Validation: On the React frontend, route configuration and validation m
 
 UI/UX Design: The project boasts a user-friendly interface and a pleasant user experience. It leverages the power of Bootstrap 5 CSS Framework to create a visually appealing and responsive design.
 
-**Purpose:**
+## Purpose:
 
 This repository has been created primarily for educational purposes. It serves as a learning resource for developers and tech enthusiasts interested in exploring the integration of Laravel and React to build a modern web application. Feel free to review the code, understand the implementation, and use it as a reference for your own projects or for enhancing your skills in web development.
 
 Whether you're a student looking to learn more about full-stack development or an experienced developer interested in Laravel and React, this repository is here to help you on your journey. Dive into the code, explore the features, and expand your knowledge of building secure and efficient web applications.
 
-**Contributions:**
+> [!TIP]
+> ## Getting Started
+> Clone this repository to your local machine.
+> Set up a local web server environment (e.g., Apache) to run the PHP scripts.
+> Configure your MySQL database credentials in the PHP files to establish a connection.
+> Access the platform through your web server and begin making personalized ToDo notes.
+
+## Contributions:
 
 Contributions to this project are more than welcome! If you have ideas for improvements, feature enhancements, or bug fixes, please feel free to submit pull requests. Let's collaborate to make this Laravel-React ToDo Tasks Web App even better.
 
